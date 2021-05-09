@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item key="haha" value="哈哈"/>
+    <item key="net_error" value="网络异常"/>
+    <item key="to_slow" value="太慢"/>
+</root>

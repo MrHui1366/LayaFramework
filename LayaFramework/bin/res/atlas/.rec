@@ -1,0 +1,70 @@
+D .
+R 39B957DA texture.png
+D comp
+P 316AD948 btn_close.png
+P 5B258D17 button.png
+P 3C493DD4 check_circle.png
+P 98E54F0D checkbox.png
+P 6B7AB858 clip_num.png
+P 63A22FAC clip_tree_arrow.png
+P D749C312 clip_tree_folder.png
+P 704C5D70 combobox.png
+P D566AE8B fontClip.png
+P 38AB8F3F fontClip_num.png
+P 6EF336AE hscroll$bar.png
+P 7FF47AC5 hscroll$down.png
+P 3D7B147A hscroll$up.png
+P 750BD445 hscroll.png
+P 9A5EF899 hslider$bar.png
+P 9CED7132 hslider.png
+P BA2A0579 html.png
+P 8236CD48 image.png
+P 4ACB7AEF img_bg.png
+P FCD04607 img_bg2.png
+P 23FB4D29 img_bg3.png
+P 5FD17798 img_bg4.png
+P 2BE22124 img_bg5.png
+P BA28BD65 img_blank.png
+P BA2A0579 label.png
+P B017E53E progress$bar.png
+P C05839CD progress.png
+P 3C493DD4 radio.png
+P 3C493DD4 radiogroup.png
+P 5BA25C15 tab.png
+P A3D7A036 textarea.png
+P A3D7A036 textinput.png
+P 2DCE1DF9 vscroll$bar.png
+P 6FE7EA34 vscroll$down.png
+P 0587871F vscroll$up.png
+P 5FD17798 vscroll.png
+P DDDDFB9E vslider$bar.png
+P 01BAE7F5 vslider.png
+D data
+R 50A2B841 hahaha.txt
+D font
+R 80739C67 test.ttf
+D img
+P 820487A2 btn_award.png
+P B22214F2 btn_buy.png
+P C7769BDB btn_cancel.png
+P 254971FB btn_close.png
+P 05088F40 btn_close_off.png
+P 0509E0A6 btn_close_on.png
+P A95650A2 btn_draw.png
+P E7690ABB btn_green.png
+P 9CDCE729 btn_help.png
+P F7825A04 btn_ok.png
+P 91731946 btn_prize.png
+P 8BD2F4E7 btn_quit.png
+P 0171B018 btn_quitGame.png
+P 21A31E0C btn_rank.png
+P 2D21636E btn_regular.png
+P F4136325 btn_startgame.png
+P 66C10899 btn_store.png
+P 55949A1F btn_sure.png
+D sound
+R 0592D899 test.mp3
+D data/json
+R 25FF84A8 DT_Sample.json
+D data/xml
+R 60313426 testxml.xml

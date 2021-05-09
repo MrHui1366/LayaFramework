@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"texture":"img/btn_green.png","x":0,"y":0,"presetID":1,"isPresetRoot":true,"sizeGrid":"29,24,32,24"},"compId":9,"child":[{"type":"Button","props":{"skin":"img/btn_quitGame.png","label":"label","x":15,"y":-16,"stateNum":1,"presetID":2},"compId":8}],"loadList":["img/btn_green.png","img/btn_quitGame.png"],"loadList3D":[]}

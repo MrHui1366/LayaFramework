@@ -1,0 +1,1 @@
+{"type":"UIBase","props":{"width":750,"height":1334},"compId":2,"child":[{"type":"Button","props":{"y":643.5,"x":311,"var":"OKButton","skin":"comp/button.png","label":"label"},"compId":43},{"type":"Label","props":{"y":292,"x":247,"text":"这是一个测试界面","fontSize":32,"color":"#ffffff"},"compId":44}],"loadList":["comp/button.png"],"loadList3D":[]}
